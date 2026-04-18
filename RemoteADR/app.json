@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "demo-pc-monitor-app-2",
+    "slug": "demo-pc-monitor-app-2",
+    "version": "1.0.0",
+    "android": {
+      "usesCleartextTraffic": true
+    }
+  }
+}
