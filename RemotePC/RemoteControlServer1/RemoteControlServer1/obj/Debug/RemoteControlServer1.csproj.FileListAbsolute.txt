@@ -1,0 +1,113 @@
+C:\Users\QUANG HUU\source\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.AssemblyReference.cache
+C:\Users\QUANG HUU\source\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.Form1.resources
+C:\Users\QUANG HUU\source\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.Properties.Resources.resources
+C:\Users\QUANG HUU\source\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.GenerateResource.cache
+C:\Users\QUANG HUU\source\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.CoreCompileInputs.cache
+C:\Users\QUANG HUU\source\repos\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.exe.config
+C:\Users\QUANG HUU\source\repos\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.exe
+C:\Users\QUANG HUU\source\repos\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.pdb
+C:\Users\QUANG HUU\source\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.exe
+C:\Users\QUANG HUU\source\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.pdb
+C:\Users\QUANG HUU\source\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.exe.config
+C:\Users\QUANG HUU\Winform\repos\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.exe.config
+C:\Users\QUANG HUU\Winform\repos\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.exe
+C:\Users\QUANG HUU\Winform\repos\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.pdb
+C:\Users\QUANG HUU\Winform\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.AssemblyReference.cache
+C:\Users\QUANG HUU\Winform\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.exe.config
+C:\Users\QUANG HUU\Winform\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.Form1.resources
+C:\Users\QUANG HUU\Winform\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.Properties.Resources.resources
+C:\Users\QUANG HUU\Winform\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.GenerateResource.cache
+C:\Users\QUANG HUU\Winform\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.CoreCompileInputs.cache
+C:\Users\QUANG HUU\Winform\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.exe
+C:\Users\QUANG HUU\Winform\repos\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.pdb
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.exe.config
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.exe
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.pdb
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.Form1.resources
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.Properties.Resources.resources
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.exe
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.pdb
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Buffers.dll
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Memory.dll
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Text.Json.dll
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Buffers.xml
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Memory.xml
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Text.Json.xml
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteCo.E3EE5836.Up2Date
+C:\Users\admin\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\Fleck.dll
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.exe.config
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.exe
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.pdb
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\Fleck.dll
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Buffers.dll
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Memory.dll
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Text.Json.dll
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Buffers.xml
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Memory.xml
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Text.Json.xml
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.AssemblyReference.cache
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.exe.config
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.Form1.resources
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.Properties.Resources.resources
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.GenerateResource.cache
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.CoreCompileInputs.cache
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteCo.E3EE5836.Up2Date
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.exe
+C:\Users\QUANG HUU\Downloads\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.pdb
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.exe.config
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.exe
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\RemoteControlServer1.pdb
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\Fleck.dll
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Buffers.dll
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.IO.Pipelines.dll
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Memory.dll
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Numerics.Vectors.dll
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Text.Json.dll
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Buffers.xml
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.IO.Pipelines.xml
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Memory.xml
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Numerics.Vectors.xml
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Text.Json.xml
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.AssemblyReference.cache
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.Form1.resources
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.Properties.Resources.resources
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.GenerateResource.cache
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.csproj.CoreCompileInputs.cache
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteCo.E3EE5836.Up2Date
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.exe
+D:\Code\Mobile\Remote\RemotePC\RemotePC\RemoteControlServer1\RemoteControlServer1\obj\Debug\RemoteControlServer1.pdb
